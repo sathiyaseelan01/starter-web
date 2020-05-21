@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 deployment happens here
 
 ## How to contribute
-I contribute when needed
+I contribute when needed sathiyaseelan paulsuyambu
